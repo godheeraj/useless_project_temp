@@ -1,4 +1,4 @@
-# 🦟 Mosquito Slapping AI — Over-Engineered Pest Control
+# 🦟 Kothu Bat — Over-Engineered Pest Control
 
 > *"An unnecessarily advanced computer-vision solution to a problem that does not exist."*
 
@@ -181,11 +181,3 @@ DEMO_MODE = False                 # Toggle with 'M' key
 
 ### 3. Audio is silent
 - Pygame sound uses procedural synthesis via NumPy. Ensure your system volume is turned on and speakers/headphones are selected as the default audio device.
-
----
-
-## 🏆 Make-a-Thon Presentation Tips
-
-1. **Activate Demo Mode**: Press `M` during gameplay or before showing judges. This enlarges fonts, brightens contrast, and makes the combat stats visible across a room.
-2. **Spectator Appeal**: Position the laptop/monitor so spectators can see both the gameplay screen and the player's physical movements.
-3. **Show Off the End Screen**: The **Kerala Survival Rating** and humorous ranking titles (*"THE MOSQUITO POPULATION HAS REQUESTED ASYLUM"*) are guaranteed crowd-pleasers.
